@@ -1,7 +1,8 @@
 package ldap
 
 import (
-	"crypto/tls"
+	//"crypto/tls"
+	tls "github.com/zcqzcg/gmtls"
 	"time"
 )
 

@@ -5,9 +5,10 @@
 package ldap
 
 import (
-	"crypto/tls"
+	//"crypto/tls"
 	"errors"
 	"fmt"
+	tls "github.com/zcqzcg/gmtls"
 	"log"
 	"net"
 	"sync"
